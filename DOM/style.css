@@ -1,0 +1,66 @@
+/*h1 {
+    color: red;
+    background-color: azure;
+    height : 100px;
+    width: 200px;
+}*/
+
+
+.two{
+    background-color: brown;
+    color:black;
+    height : 100px;
+    width: 200px;
+    border: 5px;
+    border-radius: 1cm;
+    border-color: black;
+   
+}
+
+.one{
+    background-color: green;
+    color:blue;
+    height : 100px;
+    width: 200px;
+    border: 5px;
+    border-radius: 1cm;
+    border-color: black;
+
+}
+
+#three {
+    background-color: red;
+    color:black;
+    height : 100px;
+    width: 200px;
+    border: 5px;
+    border-radius: 1cm;
+    border-color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,17 @@
+h1 {
+    color:yellow
+}
+
+p {
+    color:blue
+}
+.cla {
+    color:red;
+    background-color: black;
+    width: 200px;
+    height: 200px;
+}
+
+#clid {
+    color: orange;
+}
